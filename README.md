@@ -1,0 +1,1 @@
+The .py files all contain classes which configure the state, create momentum pairs, calculate the Hamiltonian, and time-evolve the system. The notebook files demonstrate how to call and use the classes.
